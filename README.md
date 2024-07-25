@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">I'm Eliott<br><br>🏫 Student at 42<br>📚 Learning C</p>
+<p align="left">I'm Eliott<br>💻 Student at <a href="https://github.com/42Paris" target="_blank">42 School</a><br>📚 Learning C</p>
 
-###
+<br>
 
 <h2 align="left">I code with</h2>
 
@@ -26,19 +26,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-###
+<br>
 
-<h2 align="left">Reach me</h2>
+<h2 align="left">Projects</h2>
+
+| <a href="https://github.com/Eliottbm/42_push_swap" target="_blank">Push swap</a> | <a href="https://github.com/Eliottbm/42_so-long" target="_blank">So long</a> |
+| :-------------: | :-------------: |
+| <img src="https://private-user-images.githubusercontent.com/152499677/352071742-539ee01c-4831-40e1-b660-39effb2c5f35.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5Mjc4OTgsIm5iZiI6MTcyMTkyNzU5OCwicGF0aCI6Ii8xNTI0OTk2NzcvMzUyMDcxNzQyLTUzOWVlMDFjLTQ4MzEtNDBlMS1iNjYwLTM5ZWZmYjJjNWYzNS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyNVQxNzEzMThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZDkzNzk0OWQyM2U0NTAxZTViNjQyNjc2OGVmMDAyNTRmYjJiYWExNGZkYmYyZjJmNTM2NmQzYjU5MDE1ZTg4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.g_j40kKD7jAXtOZd_jy2Bu2xmY86CiwLBDSDHU5Mc4g"/>  | <img src="https://private-user-images.githubusercontent.com/152499677/352100138-880db156-7aab-4896-8427-2a8f778a8f52.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5Mjc5ODksIm5iZiI6MTcyMTkyNzY4OSwicGF0aCI6Ii8xNTI0OTk2NzcvMzUyMTAwMTM4LTg4MGRiMTU2LTdhYWItNDg5Ni04NDI3LTJhOGY3NzhhOGY1Mi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyNVQxNzE0NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NzVmYTI4M2RiYjJiMjk4OWZhN2RiNjM0ZWY3MTg5MzNmN2ZmYTJhNzY3YTIwNDA1NGEzYzZmYzVkMmI0OWZkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.MaDghT7ci5KPhJgg5twLPwa1L2-lD9bP0H_-F_I8Gok"/> |
+| `C`  | `C`  |
+
+<br>
+
+<h2 align="left">Contact</h2>
 
 ###
 
 <div align="left">
   <a href="https://linkedin.com/in/eliott-bengtsson-maire" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  /></a>
+    <img width="14" />
   <a href="mailto:bengtssonmaire.eliott@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo"  />
   </a>
+  
 </div>
-
-###
